@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/minirt-test-anim.dir/minirt_test_anim.cpp.o  -o minirt-test-anim  ../minirt/libminirt.a 
